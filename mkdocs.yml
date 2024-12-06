@@ -1,0 +1,6 @@
+site_name: Worldbuilding Exercise
+theme:
+  name: material
+plugins:
+  - autorefs
+  - awesome-pages
