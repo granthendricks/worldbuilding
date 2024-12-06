@@ -4,3 +4,4 @@ theme:
 plugins:
   - autorefs
   - awesome-pages
+site_url: https://granthendricks.github.io/worldbuilding
